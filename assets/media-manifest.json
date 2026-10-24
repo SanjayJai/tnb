@@ -1,0 +1,74 @@
+[
+  {
+    "file": "assets/images/residential.jpg",
+    "source": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1600&q=85",
+    "description": "Residential property exterior",
+    "usage": "Illustrative stock media; not TNB premises or staff."
+  },
+  {
+    "file": "assets/images/property-keys.jpg",
+    "source": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1600&q=85",
+    "description": "Property documents and house keys",
+    "usage": "Illustrative stock media; not TNB premises or staff."
+  },
+  {
+    "file": "assets/images/document-review.jpg",
+    "source": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1600&q=85",
+    "description": "Business document review",
+    "usage": "Illustrative stock media; not TNB premises or staff."
+  },
+  {
+    "file": "assets/images/collaboration.jpg",
+    "source": "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1600&q=85",
+    "description": "Business collaboration",
+    "usage": "Illustrative stock media; not TNB premises or staff."
+  },
+  {
+    "file": "assets/images/city-skyline.jpg",
+    "source": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1600&q=85",
+    "description": "Apartment building exterior",
+    "usage": "Illustrative stock media; not TNB premises or staff."
+  },
+  {
+    "file": "assets/images/landscape.jpg",
+    "source": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1600&q=85",
+    "description": "Landscape and land parcels",
+    "usage": "Illustrative stock media; not TNB premises or staff."
+  },
+  {
+    "file": "assets/images/research-office.jpg",
+    "source": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1600&q=85",
+    "description": "Contemporary workspace",
+    "usage": "Illustrative stock media; not TNB premises or staff."
+  },
+  {
+    "file": "assets/images/architecture.jpg",
+    "source": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+    "description": "Contemporary architectural facade",
+    "usage": "Illustrative stock media."
+  },
+  {
+    "file": "assets/images/office.jpg",
+    "source": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+    "description": "Shared office workspace",
+    "usage": "Illustrative stock media."
+  },
+  {
+    "file": "assets/videos/property.mp4",
+    "source": "https://videos.pexels.com/video-files/7578545/7578545-hd_1920_1080_30fps.mp4",
+    "description": "Property walkthrough",
+    "usage": "Pexels stock footage. Not TNB premises."
+  },
+  {
+    "file": "assets/videos/review.mp4",
+    "source": "https://videos.pexels.com/video-files/7578545/7578545-hd_1920_1080_30fps.mp4",
+    "description": "Property walkthrough (edited excerpt)",
+    "usage": "Pexels stock footage. Not TNB premises."
+  },
+  {
+    "file": "assets/videos/partnership.mp4",
+    "source": "https://videos.pexels.com/video-files/7578545/7578545-hd_1920_1080_30fps.mp4",
+    "description": "Property walkthrough (edited excerpt)",
+    "usage": "Pexels stock footage. Not TNB premises."
+  }
+]
